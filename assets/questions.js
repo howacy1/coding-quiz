@@ -1,3 +1,4 @@
+// variable that holds the questions, choices, and answers for the quiz.
 var questions = [
     {
         title: "Which built-in method removes the last element from an array and returns that element?",
