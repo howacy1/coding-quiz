@@ -9,8 +9,8 @@ A website to quiz the user on JavaScript and keeps track of high scores.
 * JS
 
 ## Website
-https://howacy1.github.io/password-generator/
+https://howacy1.github.io/coding-quiz/
 
-![Password Generator](passwordgenerator.PNG)
+![Coding Quiz](codingQuiz.PNG)
 ## Contribution
 Made by Cy Howard
